@@ -4,7 +4,7 @@
 
 Projet d'analyse fintech complet : analyse empirique des stablecoins existants (USDT, USDC, DAI), mesure du risque, étude des crises historiques, cas d'usage marocain (transferts des MRE), business plan d'un stablecoin dirham fictif (« MADc ») et stress test de liquidité par simulation de Monte Carlo.
 
-🔗 **Dashboard interactif :** *(lien à ajouter après le déploiement)*
+   🔗 **Dashboard interactif :** [stablecoin-risk-lab.streamlit.app](https://stablecoin-risk-lab.streamlit.app)
 
 ---
 
